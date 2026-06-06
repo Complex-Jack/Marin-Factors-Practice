@@ -49,7 +49,7 @@ Page, switch to the HTML editor, and insert:
 
 ```html
 <iframe
-  src="https://YOUR-GITHUB-USERNAME.github.io/marin-factors-shigleys/"
+  src="https://YOUR-GITHUB-USERNAME.github.io/Marin-Factors-Practice"
   title="Marin Factors Practice (Shigley's)"
   width="100%"
   height="1800"
